@@ -1,0 +1,1 @@
+python3 -u ./mdb_flash.py --hex="pic32mzw.hex" --mdb-path="C:\Program Files\Microchip\MPLABX\v6.05\mplab_platform\bin\mdb.bat" --mcu="PIC32MZ1025W104132" --hwtool="snap" --hwtool-serial="BUR183076820"
